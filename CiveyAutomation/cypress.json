@@ -1,0 +1,6 @@
+{
+   "reporter": "mochawesome",
+   "env":{
+      "url":"https://civey.com/"
+   }
+}
